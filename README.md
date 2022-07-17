@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ad-okshaj
 - 👀 I’m interested in Web Development, Video Games and Jump Rope.
-- 🌱 I’m currently learning Django.
+- 🌱 I’m currently learning Laravel.
 - 💞️ Reach me here: 
 - [![LinkedIn](https://badgen.net/badge/LinkedIn/Adokshaj-Bhandarkar/blue)](https://www.linkedin.com/in/adokshaj-bhandarkar-9a82211aa/) 
   
