@@ -1,5 +1,6 @@
 - 🌱 I’m currently learning Laravel.
 - 💞️ Reach me here: 
+<br/>
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Adokshaj-Bhandarkar/blue)](https://www.linkedin.com/in/adokshaj-bhandarkar-9a82211aa/) 
   
 
