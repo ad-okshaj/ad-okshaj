@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adokshaj Bhandarkar</h1>
 <h3 align="center">Developer from India</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 
 - 🔭 I’m currently working on [JavaFX + SQL Information Collector](https://github.com/ad-okshaj/javafx-collectortool)
