@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adokshaj Bhandarkar</h1>
 <h3 align="center">Developer from India</h3>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 - 🔭 I’m currently working on [JavaFX + SQL Information Collector](https://github.com/ad-okshaj/javafx-collectortool)
 
