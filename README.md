@@ -1,20 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adokshaj Bhandarkar</h1>
-<h3 align="center">Developer from India</h3>
-<img alt="Coder GIF" align="right" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-
-
-- 🔭 I’m currently working on [JavaFX + SQL Information Collector](https://github.com/ad-okshaj/javafx-collectortool)
-
-- 🌱 I’m currently learning **Java + DSA**
-
-- 👨‍💻 All of my projects are available at [github.com/ad-okshaj](github.com/ad-okshaj)
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **badokshaj57@gmail.com**
-
-- ⚡ Fun fact **I like turtles. (not really)**
-
+<h1 align="center">I am Adokshaj Bhandarkar.</h1>
+<h3 align="center">Full-Stack Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adokshaj bhandarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adokshaj bhandarkar" height="30" width="40" /></a>
