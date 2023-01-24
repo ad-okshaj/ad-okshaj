@@ -1,4 +1,4 @@
-<h1 align="center">I am Adokshaj Bhandarkar.</h1>
+<h1 align="center">Adokshaj Bhandarkar</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
